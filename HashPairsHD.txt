@@ -1,0 +1,58 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Codigo dos modelos:
+
+Sora (AL14_PLAYER; M_EX950_CARD; M_EX950_DICE; P_EX100; P_EX120; P_LK100; P_LM100; PO06_PLAYER; TR_PLAYER)
+Donald (N_LM010_PLY; P_EX020; P_LK020; P_WI020)
+Pateta (N_LM020_PLY; P_EX030; P_LK030; P_WI030)
+Mickey (P_EX200; P_EX210; P_EX220; P_EX230)
+Auron (P_HE000)
+Mulan (P_MU000)
+Aladdin (P_AL000)
+Jack Sparrow (P_CA000)
+Fera (P_BB000)
+Jack Skeleton (P_NM000)
+Simba (P_LK000)
+Tron (P_TR000)
+Riku (P_EH000)
+Roxas (P_EX110; P_EX130)
+Ping [Mulan] (P_MU010)
+
+Os modelos a seguir possuem IDs válidos, mas não estão na tabela por padrão.
+
+Stitch (N_HB040_BTL)
+Genie (P_AL010)
+Peter Pan (P_EX330)
+Tinker Bell (P_EX340)
+Chicken Little (P_EX350)
+-----------------------------------------------------------------------------------------------------------
+
+Esses codigos abaixo é para ajudar a achar os sdatas na pasta dos codigos deles
+
+1ccc4c5b62ddee75.sdat  = field2d/us/bb0command.2dd
+6ade253263a8b6e7.sdat  = field2d/us/al0command.2dd
+24caa9b969c1b96c.sdat = field2d/us/ca0field.2dd
+043fc356c166b5ba.sdat  = menu/us/camp.2ld
+56d1fef15ffb6a6e.sdat = menu/us/ab_010_r.bar
+72ae35c2bc1a1558.sdat = menu/us/ab_010_o.bar
+88d9121ddda8e328.sdat = field2d/us/bb0field.2dd
+113c13612545463e.sdat = field2d/us/al0field.2dd
+153cda7051ad075e.sdat = field2d/us/dc0command.2dd
+5280ff3f2ce0e7f6.sdat = field2d/us/bb0command.2dd
+5366f94fd7691f1c.sdat = field2d/us/ca0command.2dd
+16789f5fc4ec7aa4.sdat = field2d/us/eh0command.2dd
+31139088c5362639.sdat = field2d/us/eh0field.2dd
+39852591af026df4.sdat = field2d/us/bb0field.2dd
+b532b65058f593bc.sdat = field2d/us/dc0field.2dd
+c0aa1ae33363121b.sdat = menu/us/ab_020_r.bar
+c1a008fad810639c.sdat = field2d/us/dc0field.2dd
+db4e09dae0a0c372.sdat = menu/us/ab_010_s.bar
+0b581c09b4d55be7.sdat = obj/P_EX100_MAGF.mdlx
+0fb472e632611f79.sdat  = obj/P_EX100_NM_MAGF.a.us
+1c3c03aa7323ebf7.sdat = obj/P_EX110_BTLF.mdlx
+19bf2ca76566ce47.sdat = obj/P_EX100.mdlx
+1d6c0a6a0c94ddb4.sdat = di.bar
+5b05c71d4efc53cf.sdat = Sys.bar
+93b5b0cdee200a4f.sdat = lm.bar
+614459036d60233f.sdat = tt.bar
+b911a891600cfb24.sdat = title.bar
